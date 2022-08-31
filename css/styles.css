@@ -170,7 +170,7 @@ section{
     url(../images/homepage-image/banner-foto.jpg);
     margin-left: auto;
     margin-right: auto;
-    width: 1600px;
+    max-width: 1600px;
     height: min-content;
     background-repeat: no-repeat;
     background-position: center;
